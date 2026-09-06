@@ -1,0 +1,4 @@
+__pycache__
+
+models/KTH_features.npy
+models/hog_flow_svm.pkl
